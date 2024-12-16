@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a health tracking app**
 
-- 👨‍💻 All of my projects are available at [www.griffcodes.com](www.griffcodes.com)
+- 👨‍💻 All of my projects are available at [www.griffcodes.com](https://www.griffcodes.com/)
 
 - 💬 Ask me about **react**
 
