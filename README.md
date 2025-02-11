@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kayla</h1>
-<h3 align="center">A passionate software engineer from Chicago</h3>
+<h3 align="center">A passionate software engineer from the Chicagoland area </h3>
 
-- 🔭 I’m currently working on **a health tracking app**
+- 🔭 I’m currently working on **a web reboot for a pediatricians' office**
 
 - 👨‍💻 All of my projects are available at [www.griffcodes.com](https://www.griffcodes.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **why good development takes accessibility into account** or **NextJS**
+- 💬 Tell me about **your go-to Cursor hotkeys**. Recently replaced VSCode with Cursor and loving the seamless AI integration. Any tips to become a super user are welcome!
 
 - 📫 How to reach me **kayla@griffcodes.com**
 
