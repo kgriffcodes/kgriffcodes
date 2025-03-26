@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [www.griffcodes.com](https://www.griffcodes.com/)
 
+- 🎥 Video content can be checked out at [https://www.youtube.com/@griffcodes](https://www.youtube.com/@griffcodes)
+
 - 💬 Ask me about **why good development takes accessibility into account** or **NextJS**
 - 💬 Tell me about **your go-to Cursor hotkeys**. Recently replaced VSCode with Cursor and loving the seamless AI integration. Any tips to become a super user are welcome!
 
