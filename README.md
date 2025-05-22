@@ -5,11 +5,11 @@
 
 <p align="left">I'm a frontend engineer with a background in theater and a knack for making technical concepts feel human. After earning a degree in Communications from Northwestern, I pivoted into software development and never looked back. Whether I’m building products, chatting about project requirements with clients, or filming tech explainer videos, I thrive at the intersection of code and communication.</p>
 
-- 🔁 **Currently** working on [projects for Griffcodes](www.griffcodes.com), learning AI-assisted development with tools like Cursor, and exploring new opportunities. I also film youtube videos explaining various tech concepts (link below).
+- 🔁 **Currently** working on [projects for Griffcodes](https://www.griffcodes.com), learning AI-assisted development with tools like Cursor, and exploring new opportunities. I also film youtube videos explaining various tech concepts (link below).
 
 - 📫 How to reach me: **kayla@griffcodes.com**
 
-- 📄 If you'd like to know more about my experiences, here's my [Resume](www.kaylagriffith.com/resume) and [Portfolio](www.kaylagriffith.com).
+- 📄 If you'd like to know more about my experiences, here's my [Resume](https://www.kaylagriffith.com/resume) and [Portfolio](https://www.kaylagriffith.com).
 
 
 <h3 align="left"> 🚧 Featured Projects:</h3>
